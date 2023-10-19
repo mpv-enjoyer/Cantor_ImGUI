@@ -1,0 +1,3 @@
+Cantor function rendered in real time :DD
+
+(for now using dumb getter + dumb recursive function with lots of allocations)

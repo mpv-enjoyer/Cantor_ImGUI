@@ -1,0 +1,3 @@
+/home/dils/imgui_projects/imgui_Kantor/imgui/examples/example_android_opengl3/CMakeFiles/ImGuiExample.dir
+/home/dils/imgui_projects/imgui_Kantor/imgui/examples/example_android_opengl3/CMakeFiles/edit_cache.dir
+/home/dils/imgui_projects/imgui_Kantor/imgui/examples/example_android_opengl3/CMakeFiles/rebuild_cache.dir
