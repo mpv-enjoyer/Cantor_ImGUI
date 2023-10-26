@@ -11,7 +11,7 @@
 #pragma comment(lib, "legacy_stdio_definitions")
 #endif
 
-#define MAX_STEP     20
+#define MAX_STEP     18
 #define WARNING_STEP 15
 
 void generate_plus_null(int horisontal_steps, int current_position, bool* output_function) //Recursive function to generate monotonous sections
